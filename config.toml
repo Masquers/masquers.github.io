@@ -9,10 +9,6 @@ SectionPagesMenu = ""
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
-[languages]
-  title = "Masquers"
-  weight = 1
-  contentDir = "content"
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
