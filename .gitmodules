@@ -1,3 +1,6 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/Masquers/gohugo-theme-ananke
+[submodule "themes/tella"]
+	path = themes/tella
+	url = https://github.com/Masquers/tella
