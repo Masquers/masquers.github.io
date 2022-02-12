@@ -1,3 +1,30 @@
 baseURL = "https://masque.rs"
 languageCode = "en-us"
 title = "Masquers - NEO A&M's Official Theatre Club"
+
+theme = ["https://github.com/Masquers/gohugo-theme-ananke"]
+resourceDir = "../resources"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+[languages]
+  [languages.en]
+    title = "Masquers"
+    weight = 1
+    contentDir = "content"
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "Northeastern Oklahoma A&M's Official Theatre Club"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
