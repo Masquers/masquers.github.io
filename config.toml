@@ -1,6 +1,6 @@
 baseURL = "https://masque.rs"
 languageCode = "en-us"
-title = "Masquers - NEO A&M's Official Theatre Club"
+title = "Masquers"
 
 theme = ["ananke"]
 resourceDir = "../resources"
