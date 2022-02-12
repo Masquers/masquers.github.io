@@ -1,25 +1,55 @@
 baseURL = "https://masquers.matthewjordan.xyz"
-languageCode = "en-us"
 title = "Masquers"
-
-theme = ["ananke"]
-resourceDir = "../resources"
+author = "sylvrs"
+languageCode = "en"
 DefaultContentLanguage = "en"
-SectionPagesMenu = ""
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
+enableInlineShortcodes = true
+theme = "tella"
 enableRobotsTXT = true
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+
+# Please enable this feature if the site is available in Japanese, Chinese or Korean.
+#hasCJKLanguage = true
+
+# If you're using Google Analytics, you can enable this feature.
+#googleAnalytics = "UA-12345678-1"
+
+# Disqus Comment System
+#disqusShortname = ""
 
 [params]
-  text_color = ""
-  author = ""
-  favicon = ""
-  site_logo = ""
-  description = "Northeastern Oklahoma A&M's Official Theatre Club"
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-dark-blue"
-  recent_posts_number = 3
+  mainSections = []
+  [params.logo]
+    alt = "Masquers"
+    # The size parameter is the class name of tailwindcss
+    # https://tailwindcss.com/
+    size = "h-14"
+  [params.site]
+    name = "Masquers"
+  [params.icon]
+    #If you want to use FontAwesome, set this parameter to true.
+    fa5 = true
+  [params.homepage_meta_tags]
+    meta_description = "Northeastern Oklahoma A&M's Official Theatre Club"
+    meta_og_title = "Tella"
+    meta_og_type = "website"
+    meta_og_url = "https://masquers.matthewjordan.xyz"
+    meta_og_description = "Northeastern Oklahoma A&M's Official Theatre Club"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+  # Footer Menu
+  [[menu.footer]]
+    name = "Home"
+    url = "/"
+      weight = 1
