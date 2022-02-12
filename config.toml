@@ -2,7 +2,7 @@ baseURL = "https://masque.rs"
 languageCode = "en-us"
 title = "Masquers - NEO A&M's Official Theatre Club"
 
-theme = ["https://github.com/Masquers/gohugo-theme-ananke"]
+theme = ["ananke"]
 resourceDir = "../resources"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
