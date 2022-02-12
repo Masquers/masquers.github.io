@@ -1,6 +1,14 @@
 [
     {
-      "title": "Masquers: A Theatre Club You Don't Want To Miss",
+      "title": "Masquers",
       "image": "img/slide/mr_mushnik.jpg"
+    },
+    {
+        "title": "Where memories are made",
+        "image": "img/slide/trio.jpg"
+    },
+    {
+        "title": "And bonds are forged",
+        "image": "img/slide/mr_mushnik_and_seymour.jpg"
     }
 ]
