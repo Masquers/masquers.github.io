@@ -1,4 +1,4 @@
-baseURL = "https://masquers.github.io"
+baseURL = "https://masque.rs"
 title = "Masquers - Official Website"
 author = "sylvrs"
 languageCode = "en"
@@ -35,7 +35,7 @@ enableRobotsTXT = true
     meta_description = "Northeastern Oklahoma A&M's Official Theatre Club"
     meta_og_title = "Tella"
     meta_og_type = "website"
-    meta_og_url = "https://masquers.github.io"
+    meta_og_url = "https://masque.rs"
     meta_og_description = "Northeastern Oklahoma A&M's Official Theatre Club"
 
 [menu]
