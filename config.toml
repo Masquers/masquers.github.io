@@ -57,6 +57,12 @@ enableRobotsTXT = true
     url = "/contact/"
     weight = 4
 
+  [[menu.main]]
+    identifier = "archive"
+    name = "Archive"
+    url = "/archive/"
+    weight = 5
+
   # Footer Menu
   [[menu.footer]]
     name = "Home"
