@@ -37,6 +37,8 @@ enableRobotsTXT = true
     meta_og_type = "website"
     meta_og_url = "https://masque.rs"
     meta_og_description = "Northeastern Oklahoma A&M's Official Theatre Club"
+  [params.social_media]
+    discord = "https://discord.gg/amZ2cCBKSM"
 
 [menu]
   [[menu.main]]
