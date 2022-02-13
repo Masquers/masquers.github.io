@@ -20,6 +20,7 @@ enableRobotsTXT = true
   [params.main_section]
     identifier = "meeting"
     title = "Meetings"
+    collective_title = "Meetings"
   [params.logo]
     alt = "Masquers"
     # The size parameter is the class name of tailwindcss
