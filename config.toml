@@ -17,7 +17,9 @@ enableRobotsTXT = true
 #disqusShortname = ""
 
 [params]
-  mainSections = ['blog']
+  [params.main_section]
+    identifier = "meeting"
+    title = "Meetings"
   [params.logo]
     alt = "Masquers"
     # The size parameter is the class name of tailwindcss
