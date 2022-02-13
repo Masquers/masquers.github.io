@@ -40,9 +40,9 @@ enableRobotsTXT = true
 
 [menu]
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog/"
+    identifier = "meeting"
+    name = "Meetings"
+    url = "/meeting/"
     weight = 2
 
   [[menu.main]]
