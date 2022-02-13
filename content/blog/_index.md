@@ -1,6 +1,6 @@
 +++
-aliases = ["posts", "articles", "meetings", "blog"]
-title = "Meetings"
-author = "Masquers Club &copy; 2022"
+aliases = ["posts", "articles", "blog", "showcase", "docs"]
+title = "Posts"
+author = "Masquers &copy; 2022"
 tags = ["index"]
 +++
