@@ -1,5 +1,5 @@
 baseURL = "https://masquers.matthewjordan.xyz"
-title = "Masquers"
+title = "Masquers - Official Website"
 author = "sylvrs"
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -36,6 +36,12 @@ enableRobotsTXT = true
     meta_og_description = "Northeastern Oklahoma A&M's Official Theatre Club"
 
 [menu]
+  [[menu.main]]
+    identifier = "meetings"
+    name = "Meetings"
+    url = "/meetings/"
+    weight = 2
+
   [[menu.main]]
     identifier = "about"
     name = "About"
