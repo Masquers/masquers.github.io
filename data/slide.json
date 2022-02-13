@@ -1,14 +1,22 @@
 [
     {
       "title": "Masquers",
-      "image": "img/slide/mr_mushnik.jpg"
+      "image": "img/slide/trio_ad_mr_mushnik.jpg"
     },
     {
-        "title": "Where memories are made",
+        "title": "Where Memories Are Made",
+        "image": "img/slide/dee_and_dump.jpg"
+    },
+    {
+        "title": "And Bonds Are Forged",
+        "image": "img/slide/mr_mushnik_and_seymour.jpg"
+    },
+    {
+        "title": "",
         "image": "img/slide/trio.jpg"
     },
     {
-        "title": "And bonds are forged",
-        "image": "img/slide/mr_mushnik_and_seymour.jpg"
+        "title": "",
+        "image": "img/slide/mr_mushnik.jpg"
     }
 ]
