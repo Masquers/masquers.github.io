@@ -21,7 +21,6 @@ enableRobotsTXT = true
     identifier = "meeting"
     title = "Meetings"
   [params.logo]
-    main = ""
     alt = "Masquers"
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
