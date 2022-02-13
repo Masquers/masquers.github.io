@@ -33,7 +33,7 @@ enableRobotsTXT = true
     fa5 = true
   [params.homepage_meta_tags]
     meta_description = "Northeastern Oklahoma A&M's Official Theatre Club"
-    meta_og_title = "Tella"
+    meta_og_title = "Masquers"
     meta_og_type = "website"
     meta_og_url = "https://masque.rs"
     meta_og_description = "Northeastern Oklahoma A&M's Official Theatre Club"
