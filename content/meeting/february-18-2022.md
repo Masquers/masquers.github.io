@@ -60,7 +60,7 @@ Kayla Ford is voted in as Grievance Officer.
 ### Secretary:
 Nominees:
   - Ethan King: 0
-  - Goldie Snow: 7 
+  - Goldie Snow: 7
 
 Goldie Snow is voted in as Secretary.
 
@@ -77,9 +77,10 @@ Matthew asks to see Secretary & Historian positions after to train them in their
 Sadie asks about Student Body officer positions.
 
 Radar asks if there is volunteers.
-Volunteers are:
-    - Sadie Stone-McCarty
-    - Ethan King
+
+Volunteers for Student Body officers are:
+  - Sadie Stone-McCarty
+  - Ethan King
 
 More discussion will follow up at the next regular meeting.
 
